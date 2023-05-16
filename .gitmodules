@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HandTill2001"]
+	path = HandTill2001
+	url = https://gitlab.com/fvafrcu/handtill2001
+	shallow = true
+	registered = true
+[submodule "maSAE"]
+	path = maSAE
+	url = https://gitlab.com/fvafrcu/masae
+	shallow = true
+	registered = true
+[submodule "treePlotArea"]
+	path = treePlotArea
+	url = https://gitlab.com/fvafrcu/treeplotarea
+	shallow = true
+	registered = true
