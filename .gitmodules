@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "document"]
+	path = document
+	url = https://gitlab.com/fvafrcu/document
+	shallow = true
+	registered = true
 [submodule "fritools"]
 	path = fritools
 	url = https://github.com/cran/fritools
@@ -21,6 +26,11 @@
 [submodule "maSAE"]
 	path = maSAE
 	url = https://gitlab.com/fvafrcu/masae
+	shallow = true
+	registered = true
+[submodule "rasciidoc"]
+	path = rasciidoc
+	url = https://gitlab.com/fvafrcu/rasciidoc
 	shallow = true
 	registered = true
 [submodule "treePlotArea"]
