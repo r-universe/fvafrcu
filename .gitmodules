@@ -38,6 +38,11 @@
 	url = https://gitlab.com/fvafrcu/masae
 	shallow = true
 	registered = true
+[submodule "packager"]
+	path = packager
+	url = https://gitlab.com/fvafrcu/packager
+	shallow = true
+	registered = true
 [submodule "rasciidoc"]
 	path = rasciidoc
 	url = https://gitlab.com/fvafrcu/rasciidoc
