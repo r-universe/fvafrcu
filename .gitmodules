@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "HandTill2001"]
+	path = HandTill2001
+	url = https://gitlab.com/fvafrcu/handtill2001
 [submodule "cleanr"]
 	path = cleanr
 	url = https://gitlab.com/fvafrcu/cleanr
@@ -17,9 +20,6 @@
 [submodule "fritools2"]
 	path = fritools2
 	url = https://gitlab.com/fvafrcu/fritools
-[submodule "HandTill2001"]
-	path = HandTill2001
-	url = https://gitlab.com/fvafrcu/handtill2001
 [submodule "maSAE"]
 	path = maSAE
 	url = https://gitlab.com/fvafrcu/masae
