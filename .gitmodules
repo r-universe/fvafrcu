@@ -16,7 +16,7 @@
 	url = https://gitlab.com/fvafrcu/fakemake
 [submodule "fritools"]
 	path = fritools
-	url = https://github.com/cran/fritools
+	url = https://gitlab.com/fvafrcu/fritools
 [submodule "fritools2"]
 	path = fritools2
 	url = https://gitlab.com/fvafrcu/fritools
