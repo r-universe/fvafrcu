@@ -5,6 +5,9 @@
 [submodule "HandTill2001"]
 	path = HandTill2001
 	url = https://gitlab.com/fvafrcu/handtill2001
+[submodule "MakefileR"]
+	path = MakefileR
+	url = https://gitlab.com/fvafrcu/makefiler
 [submodule "cleanr"]
 	path = cleanr
 	url = https://gitlab.com/fvafrcu/cleanr
