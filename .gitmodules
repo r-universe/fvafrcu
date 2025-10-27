@@ -14,6 +14,9 @@
 [submodule "document"]
 	path = document
 	url = https://gitlab.com/fvafrcu/document
+[submodule "excerptr"]
+	path = excerptr
+	url = https://gitlab.com/fvafrcu/excerptr
 [submodule "fakemake"]
 	path = fakemake
 	url = https://gitlab.com/fvafrcu/fakemake
